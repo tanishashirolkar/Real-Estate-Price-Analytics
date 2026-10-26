@@ -41,11 +41,19 @@ The project follows a structured data analytics workflow:
 - Median House Price
 - Average House Price by ZIP Code
 - Living Area vs. House Price
-
+  
 ### Page 2: Price Trends & Location Analysis
 
 - Average House Price Over Time
 - Top 10 ZIP Codes by Median House Price
+
+## 📊 Dashboard Preview
+
+### Page 1: Market Overview
+![Market Overview Dashboard](Dashboard-Screenshots/Real%20Estate%20Market%20Overview%20D1.png)
+
+### Page 2: Location Analysis
+![Location Analysis Dashboard](Dashboard-Screenshots/Real%20Estate%20Location%20Analysis%20D2.png)
 
 ## 🔍 Key Findings
 
