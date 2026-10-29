@@ -121,6 +121,14 @@ Power BI was used to create interactive dashboards that present the results of t
 - Geographic and time-based price analysis.
 - Dashboard layout, formatting, and data storytelling.
 
+## Conclusion
+
+This project demonstrates how Python and Power BI can be used together to analyze real estate data and extract meaningful insights. Using Pandas, NumPy, Matplotlib, and Seaborn, I performed data cleaning, exploratory data analysis, and visualization to explore house price distributions, location-based price variations, and trends over time.
+
+The Power BI dashboards present these findings through interactive visualizations and key performance indicators, making the results easier to understand.
+
+Overall, this project strengthened my practical skills in **Python, Exploratory Data Analysis (EDA), data visualization, and Power BI dashboard development**.
+
 ## 👩‍💻 Author
 
 **Tanisha Shirolkar**
