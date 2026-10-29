@@ -1,6 +1,6 @@
 # 🏡 Real Estate Price Analytics
 
-**End-to-End Data Analytics Project using Python and Power BI**
+**Data Analytics Project using Python and Power BI**
 
 ## 📌 Project Overview
 
